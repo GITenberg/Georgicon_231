@@ -1,6 +1,9 @@
 _repo: Georgicon_231
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: The Georgics
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Virgil
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/129
     wikipedia: http://en.wikipedia.org/wiki/Virgil
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/231#Georgicon
 gutenberg_bookshelf: Classical Antiquity
 gutenberg_issued: '1995-03-01'
 gutenberg_type: Text
